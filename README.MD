@@ -3,7 +3,6 @@
 配置链接:
 
 ```
-https://anaer.github.io/Meow/meow.json
 https://ghproxy.net/https://raw.githubusercontent.com/anaer/Meow/main/meow.json
 https://jsdelivr.b-cdn.net/gh/anaer/Meow@main/meow.json
 https://gcore.jsdelivr.net/gh/anaer/Meow@main/meow.json
