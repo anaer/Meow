@@ -1,11 +1,12 @@
 {
-    "updateTime": "2024-07-02 19:23:36",
+    "updateTime": "2024-07-02 21:15:14",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
         "https://picsum.photos/1920/1080",
         "https://source.unsplash.com/user/erondu/1920x1080",
-        "https://tuapi.eees.cc/api.php?category=fengjing&type=302"
+        "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+        "https://xn--spsx60cgim8pd.xxooo.cf/"
     ],
     "sites": [
         {
@@ -689,347 +690,317 @@
         {
             "name": "解析1.5",
             "type": 1,
-            "url": "http://106.54.39.252/公众号欧歌APP/jx/?ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp&url="
+            "url": "http://mi.sxdh.org/mgtv/qq.php?url="
         },
         {
             "name": "解析1.6",
             "type": 1,
-            "url": "http://mi.sxdh.org/mgtv/qq.php?url="
+            "url": "http://htp.behds.cn/json/202372345678911app/gf.php?url="
         },
         {
             "name": "解析1.7",
             "type": 1,
-            "url": "http://htp.behds.cn/json/202372345678911app/gf.php?url="
+            "url": "http://111.229.65.161/za.php?url="
         },
         {
             "name": "解析1.8",
             "type": 1,
-            "url": "http://111.229.65.161/za.php?url="
+            "url": "https://cdn.suxun.site/api/?key=LHnJW2CBw7bWews4bn&url="
         },
         {
             "name": "解析1.9",
             "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2334&my=fhloqstzDIKLMORTZ9&url="
+            "url": "https://cache.json.icu/a1804857380.php?url="
         },
         {
             "name": "解析1.10",
             "type": 1,
-            "url": "https://cdn.suxun.site/api/?key=LHnJW2CBw7bWews4bn&url="
-        },
-        {
-            "name": "解析1.11",
-            "type": 1,
-            "url": "https://cache.json.icu/a1804857380.php?url="
-        },
-        {
-            "name": "解析1.12",
-            "type": 1,
-            "url": "https://110.42.2.98:33333//api//?key=6JsNUcM5473RcARVLg&url="
-        },
-        {
-            "name": "解析1.13",
-            "type": 1,
             "url": "http://htp.behds.cn/json/520237app7/mlzjphp111.php?url="
         },
         {
-            "name": "解析0.14",
-            "type": 0,
-            "url": "https://jx.mmkv.cn/m3u8.php?url="
-        },
-        {
-            "name": "解析0.15",
+            "name": "解析0.11",
             "type": 0,
             "url": "https://www.guangsujx.com/m3u8/?url="
         },
         {
-            "name": "解析0.16",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?=&url="
-        },
-        {
-            "name": "解析0.17",
+            "name": "解析0.12",
             "type": 0,
             "url": "https://www.8090.la/api/?url="
         },
         {
-            "name": "解析0.18",
+            "name": "解析0.13",
             "type": 0,
             "url": "https://www.pangujiexi.com/jiexi/?url="
         },
         {
-            "name": "解析0.19",
+            "name": "解析0.14",
             "type": 0,
             "url": "https://ys.lbbb.cc/?url="
         },
         {
-            "name": "解析0.20",
+            "name": "解析0.15",
             "type": 0,
             "url": "https://jx.m3u8.tv/jx/jx.php?url="
         },
         {
-            "name": "解析0.21",
+            "name": "解析0.16",
             "type": 0,
             "url": "https://jx.xmflv.cc/?url="
         },
         {
-            "name": "解析0.22",
+            "name": "解析0.17",
             "type": 0,
             "url": "https://t1.qlplayer.cyou/player/analysis.php?v="
         },
         {
-            "name": "解析0.23",
+            "name": "解析0.18",
             "type": 0,
             "url": "https://play.dadiapi.com/watch?url="
         },
         {
-            "name": "解析0.24",
+            "name": "解析0.19",
             "type": 0,
             "url": "https://www.mtosz.com/erzi.php?url="
         },
         {
-            "name": "解析0.25",
+            "name": "解析0.20",
             "type": 0,
             "url": "https://110.42.2.247:9090/player/?url="
         },
         {
-            "name": "解析0.26",
+            "name": "解析0.21",
             "type": 0,
             "url": "https://t1.qlplayer.cyou/player/?url="
         },
         {
-            "name": "解析0.27",
+            "name": "解析0.22",
             "type": 0,
             "url": "https://jx.xmflv.com?url="
         },
         {
-            "name": "解析0.28",
+            "name": "解析0.23",
             "type": 0,
             "url": "http://play.shijie.chat/player/ec.php?code=qq&if=1&url="
         },
         {
-            "name": "解析0.29",
+            "name": "解析0.24",
             "type": 0,
             "url": "https://jx.2s0.cn/player/?url="
         },
         {
-            "name": "解析0.30",
+            "name": "解析0.25",
             "type": 0,
             "url": "https://h5.freejson.xyz/player/analysis.php?v="
         },
         {
-            "name": "解析0.31",
+            "name": "解析0.26",
             "type": 0,
             "url": "https://jiexi.putaozy.net/m3u8/?url="
         },
         {
-            "name": "解析0.32",
+            "name": "解析0.27",
             "type": 0,
             "url": "https://json.ovvo.pro/jx.php?url="
         },
         {
-            "name": "解析0.33",
-            "type": 0,
-            "url": "https://jx.xyflv.cc/?url="
-        },
-        {
-            "name": "解析0.34",
+            "name": "解析0.28",
             "type": 0,
             "url": "https://www.pouyun.com/?url="
         },
         {
-            "name": "解析0.35",
+            "name": "解析0.29",
             "type": 0,
             "url": "https://cdn.centos.chat/video-player/weisuan/?url="
         },
         {
-            "name": "解析0.36",
+            "name": "解析0.30",
             "type": 0,
             "url": "https://bv.htoo.vip/?url="
         },
         {
-            "name": "解析0.37",
+            "name": "解析0.31",
             "type": 0,
             "url": "https://jx.xmflv.com/?url= "
         },
         {
-            "name": "解析0.38",
+            "name": "解析0.32",
             "type": 0,
             "url": "https://vip.yeyulingfeng.com/?url="
         },
         {
-            "name": "解析0.39",
+            "name": "解析0.33",
             "type": 0,
             "url": "https://www.administratorw.com/index.php?url="
         },
         {
-            "name": "解析0.40",
+            "name": "解析0.34",
             "type": 0,
             "url": "https://tool.bitefu.net/video/?url="
         },
         {
-            "name": "解析0.41",
+            "name": "解析0.35",
             "type": 0,
             "url": "https://api.maozyapi.com/m3u8/?url="
         },
         {
-            "name": "解析0.42",
+            "name": "解析0.36",
             "type": 0,
             "url": "https://jx.yangtu.top?url="
         },
         {
-            "name": "解析0.43",
+            "name": "解析0.37",
             "type": 0,
             "url": "https://jiexi.modujx01.com/?url="
         },
         {
-            "name": "解析0.44",
+            "name": "解析0.38",
             "type": 0,
             "url": "https://1717.ntryjd.net/yunapi/?url="
         },
         {
-            "name": "解析0.45",
+            "name": "解析0.39",
             "type": 0,
             "url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url="
         },
         {
-            "name": "解析0.46",
+            "name": "解析0.40",
             "type": 0,
             "url": "https://www.snplayer.com/?url="
         },
         {
-            "name": "解析0.47",
+            "name": "解析0.41",
             "type": 0,
             "url": "https://player.mrgaocloud.com/player/?url="
         },
         {
-            "name": "解析0.48",
+            "name": "解析0.42",
             "type": 0,
             "url": "https://www.moduzy.com/jiexi/?url="
         },
         {
-            "name": "解析0.49",
-            "type": 0,
-            "url": "https://jx.777jiexi.com/player/?next=https://www.woaimoon.com/vod/98780-9-3.html&url="
-        },
-        {
-            "name": "解析0.50",
+            "name": "解析0.43",
             "type": 0,
             "url": "https://www.xinlangjiexi.com/m3u8/?url="
         },
         {
-            "name": "解析0.51",
+            "name": "解析0.44",
             "type": 0,
             "url": "http://124.223.202.12:8080/nby/m3u8/getM3u8?name=jx.91by.top&time=1713476994404&url="
         },
         {
-            "name": "解析0.52",
+            "name": "解析0.45",
             "type": 0,
             "url": "http://zy.xiaomaomi.tv/player/?url="
         },
         {
-            "name": "解析0.53",
+            "name": "解析0.46",
             "type": 0,
             "url": "https://www.nfzj.fun/bfq/FosiPlayer/?url="
         },
         {
-            "name": "解析0.54",
+            "name": "解析0.47",
             "type": 0,
             "url": "https://bfzyplayer.com/player/?url="
         },
         {
-            "name": "解析0.55",
+            "name": "解析0.48",
             "type": 0,
             "url": "https://live.fanmingming.com/player/?vurl="
         },
         {
-            "name": "解析0.56",
+            "name": "解析0.49",
             "type": 0,
             "url": "https://www.kankanju.cc/f/jxplayer.php?v="
         },
         {
-            "name": "解析0.57",
+            "name": "解析0.50",
             "type": 0,
             "url": "https://jsjiexi.com/play/?url="
         },
         {
-            "name": "解析0.58",
+            "name": "解析0.51",
             "type": 0,
             "url": "https://www.administratorw.com/admin.php?url="
         },
         {
-            "name": "解析0.59",
+            "name": "解析0.52",
             "type": 0,
             "url": "http://api.apii.top/?v="
         },
         {
-            "name": "解析0.60",
+            "name": "解析0.53",
             "type": 0,
             "url": "https://yparse.ik9.cc/index.php?url="
         },
         {
-            "name": "解析0.61",
+            "name": "解析0.54",
             "type": 0,
             "url": "https://jx.haokantv.cyou/player/?url="
         },
         {
-            "name": "解析0.62",
+            "name": "解析0.55",
             "type": 0,
             "url": "http://vip.xxphp.cn/player.html?url="
         },
         {
-            "name": "解析0.63",
+            "name": "解析0.56",
+            "type": 0,
+            "url": "http://bfqjc.xwyxpw.cn/?url="
+        },
+        {
+            "name": "解析0.57",
             "type": 0,
             "url": "https://thinkibm.vercel.app/?url="
         },
         {
-            "name": "解析0.64",
+            "name": "解析0.58",
             "type": 0,
             "url": "https://jx.zui.cm/?url="
         },
         {
-            "name": "解析0.65",
+            "name": "解析0.59",
             "type": 0,
             "url": "https://player.nineqing.com/?url="
         },
         {
-            "name": "解析0.66",
+            "name": "解析0.60",
             "type": 0,
             "url": "https://lziplayer.com/?url="
         },
         {
-            "name": "解析0.67",
+            "name": "解析0.61",
             "type": 0,
             "url": "https://www.daga.cc/vip1/?url="
         },
         {
-            "name": "解析0.68",
-            "type": 0,
-            "url": "https://jx.cxk8.com?v="
-        },
-        {
-            "name": "解析0.69",
+            "name": "解析0.62",
             "type": 0,
             "url": "https://jx.wujinkk.com/dplayer/?url="
         },
         {
-            "name": "解析0.70",
+            "name": "解析0.63",
             "type": 0,
             "url": "https://www.dianyingn.com/jiexi/?url="
         },
         {
-            "name": "解析0.71",
+            "name": "解析0.64",
             "type": 0,
             "url": "https://parse.mw0.cc/?url="
         },
         {
-            "name": "解析0.72",
+            "name": "解析0.65",
             "type": 0,
             "url": "https://dm.xbqgx.com/?url="
         },
         {
-            "name": "解析0.73",
+            "name": "解析0.66",
             "type": 0,
             "url": "https://jx.playerjy.com/?ads=0&url="
+        },
+        {
+            "name": "解析0.67",
+            "type": 0,
+            "url": "https://zhihuweb.com/player.html?url="
         }
     ],
     "ijk": [
