@@ -1,6 +1,6 @@
 {
     "about": "主要自用, 有问题 可访问https://github.com/anaer/Meow",
-    "updateTime": "2024-11-10 19:39:49",
+    "updateTime": "2024-11-19 22:02:09",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
@@ -433,7 +433,8 @@
                     "name": "CCTV-4K超高清",
                     "tvg_name": "CCTV4K",
                     "urls": [
-                        "http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8"
+                        "http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8",
+                        "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8"
                     ]
                 },
                 {
@@ -485,13 +486,16 @@
                 {
                     "name": "动作电影",
                     "urls": [
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8"
                     ]
                 },
                 {
                     "name": "黑莓电影",
                     "urls": [
-                        "http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8"
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8",
+                        "http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8",
+                        "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8"
                     ]
                 }
             ]
@@ -502,8 +506,15 @@
                 {
                     "name": "超级综艺",
                     "urls": [
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "金牌综艺",
+                    "urls": [
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8"
                     ]
                 }
             ]
@@ -545,6 +556,7 @@
                     "tvg_name": "凤凰中文",
                     "urls": [
                         "http://122.224.232.218:8888/rtp/233.50.200.191:5140",
+                        "http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8",
                         "http://1b6467f415.iok.la:9931/tsfile/live/1037_1.m3u8"
                     ]
                 },
@@ -553,7 +565,16 @@
                     "tvg_name": "凤凰资讯",
                     "urls": [
                         "http://122.224.232.218:8888/rtp/233.50.200.192:5140",
+                        "http://wouu.net:9977/udp/239.93.0.118:2191",
+                        "http://wouu.net:9977/udp/239.93.1.4:2191",
+                        "http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0",
                         "http://61.221.215.25:8800/hls/47/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "无线新闻",
+                    "urls": [
+                        "https://nothingbe.serv00.net/tvb.php?id=C&type=hd"
                     ]
                 }
             ]
