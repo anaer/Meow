@@ -1,6 +1,6 @@
 {
     "about": "主要自用, 有问题 可访问https://github.com/anaer/Meow",
-    "updateTime": "2024-12-05 07:55:51",
+    "updateTime": "2024-12-07 18:53:08",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
@@ -323,7 +323,12 @@
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8",
                         "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8",
-                        "http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8"
+                        "http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8",
+                        "http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3",
+                        "http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8",
+                        "http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8",
+                        "http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8",
+                        "http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/1.m3u8?icpid=88888888&from=1&hmsdevid=1012&vqe=3"
                     ]
                 },
                 {
@@ -334,7 +339,12 @@
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8",
                         "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8",
-                        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226450/index.m3u8"
+                        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226450/index.m3u8",
+                        "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8",
+                        "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226739/index.m3u8",
+                        "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8",
+                        "http://[2409:8087:1a0a:df::4038]:80/wh7f454c46tw3547342772_34981265/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8?icpid=88888888&RTS=1713970376&from=4&hms_devid=1211&online=1713970376&vqe=3",
+                        "http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226739/index.m3u8"
                     ]
                 },
                 {
@@ -345,7 +355,12 @@
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8",
                         "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8",
                         "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226310/index.m3u8",
-                        "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8"
+                        "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8",
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8",
+                        "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226157/index.m3u8",
+                        "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8",
+                        "http://[2409:8087:1a0a:df::402f]:80/wh7f454c46tw3223665652_2134146582/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8?icpid=88888888&RTS=1713970052&from=4&hms_devid=1144&online=1713970052&vqe=3",
+                        "http://[2409:8087:1a0a:df::4015]:80/wh7f454c46tw3251136475_-1261873562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8?icpid=88888888&RTS=1713970080&from=4&hms_devid=992&online=1713970080&vqe=3"
                     ]
                 },
                 {
@@ -356,7 +371,12 @@
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8",
                         "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8",
-                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8"
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8",
+                        "http://111.14.181.15:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://61.138.128.226:19901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://218.3.138.25:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+                        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226339/index.m3u8"
                     ]
                 },
                 {
@@ -367,7 +387,12 @@
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8",
                         "http://111.14.181.15:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8"
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8",
+                        "http://58.57.21.166:9901/tsfile/live/0128_1.m3u8",
+                        "http://59.173.243.210:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://123.112.19.67:8012/rtp/239.3.1.132:8012",
+                        "http://[2409:8087:74d9:21::6]:80/270000001128/9900000523/index.m3u8",
+                        "http://lu.wqwqwq.sbs/itv/5000000004000006692.m3u8?cdn=bestzb"
                     ]
                 }
             ]
@@ -381,9 +406,14 @@
                     "urls": [
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8",
+                        "http://61.136.172.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://221.233.192.152:1111/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://222.129.139.91:8888/rtp/239.3.1.124:8128",
+                        "http://123.113.189.90:8001/rtp/239.3.1.124:8128",
+                        "http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000510",
+                        "http://60.7.56.33:4000/rtp/239.253.92.13:8008",
                         "http://222.241.154.37:9901/tsfile/live/23013_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8",
-                        "http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8"
+                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8"
                     ]
                 },
                 {
@@ -394,7 +424,12 @@
                         "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8",
-                        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8"
+                        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8",
+                        "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8",
+                        "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8",
+                        "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8",
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8",
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8"
                     ]
                 },
                 {
@@ -404,6 +439,9 @@
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8",
+                        "http://123.112.19.67:8012/rtp/239.3.1.172:8001",
+                        "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000265003/index.m3u8?channel-id=bestzb&Contentid=5000000011000265003&livemode=1&stbId=3",
+                        "http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000003",
                         "http://117.27.190.42:9998/tsfile/live/23234_1.m3u8?key=txiptv&playlive=1&authid=0"
                     ]
                 },
@@ -423,7 +461,12 @@
                         "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8",
                         "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8",
-                        "http://111.14.181.15:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0"
+                        "http://111.14.181.15:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8",
+                        "http://58.57.21.166:9901/tsfile/live/0016_1.m3u8",
+                        "http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://221.233.192.152:1111/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://[2409:8087:74d9:21::4]:80/270000001128/index.m3u8?cmcc_cid=9900000507"
                     ]
                 },
                 {
@@ -434,7 +477,12 @@
                         "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8",
                         "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8",
                         "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8",
-                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8"
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8",
+                        "http://58.220.219.14:9901/tsfile/live/0005_1.m3u8",
+                        "http://111.14.181.15:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://gmxw.7766.org:808/hls/93/index.m3u8",
+                        "http://123.112.19.67:8012/rtp/239.3.1.173:8001",
+                        "http://lu.wqwqwq.sbs/itv/1000000005000025222.m3u8?cdn=ystenlive"
                     ]
                 },
                 {
@@ -445,7 +493,12 @@
                         "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8",
                         "http://61.138.128.226:19901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0",
-                        "http://117.27.190.42:9998/tsfile/live/23237_1.m3u8?key=txiptv&playlive=1&authid=0"
+                        "http://116.128.242.83:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://61.136.172.236:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://221.233.192.152:1111/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://222.129.139.91:8888/rtp/239.3.1.174:8001",
+                        "http://123.112.19.67:8012/rtp/239.3.1.174:8001",
+                        "http://livetv.wqwqwq.sbs/itv/1000000001000001737.m3u8?cdn=ystenlive"
                     ]
                 },
                 {
@@ -456,7 +509,12 @@
                         "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8",
                         "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8",
                         "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8",
-                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8"
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8",
+                        "http://111.14.181.15:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://58.17.48.228:808/hls/25/index.m3u8",
+                        "http://gmxw.7766.org:808/hls/96/index.m3u8",
+                        "http://61.136.67.238:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://61.136.172.236:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0"
                     ]
                 }
             ]
@@ -472,14 +530,35 @@
                         "http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8",
                         "http://39.134.65.106/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8",
                         "http://39.135.133.157:80/PLTV/88888888/224/3221225642/1.m3u8",
-                        "http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8"
+                        "http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8",
+                        "http://60.255.240.247:8090/live/wqCHCdzdyH265_4000.m3u8",
+                        "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8",
+                        "http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8",
+                        "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8",
+                        "http://58.48.5.186:1111/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0"
                     ]
                 },
                 {
                     "name": "CHC家庭影院",
                     "tvg_name": "CHC家庭影院",
                     "urls": [
-                        "http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8"
+                        "http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8",
+                        "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=",
+                        "https://stream1.freetv.fun/chcjia-ting-ying-yuan-10.m3u8",
+                        "http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8",
+                        "http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy",
+                        "https://stream1.freetv.fun/chcjia-ting-ying-yuan-4.m3u8",
+                        "https://stream1.freetv.fun/chcjia-ting-ying-yuan-12.ctv",
+                        "https://pi.0472.org/chc/jt.m3u8",
+                        "https://stream1.freetv.fun/chcjia-ting-ying-yuan-11.ctv"
+                    ]
+                },
+                {
+                    "name": "CHC影迷电影",
+                    "tvg_name": "CHC高清电影",
+                    "urls": [
+                        "http://ha.xushining.com:50000/udp/225.1.1.214:5002",
+                        "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId="
                     ]
                 },
                 {
@@ -497,7 +576,12 @@
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225743/2.m3u8",
                         "http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8",
-                        "http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8"
+                        "http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8",
+                        "http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8",
+                        "http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8",
+                        "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8",
+                        "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000018",
+                        "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/index.m3u8"
                     ]
                 }
             ]
@@ -511,6 +595,8 @@
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8",
+                        "http://lu.wqwqwq.sbs/itv/1000000006000268002.m3u8?cdn=ystenlive",
+                        "http://livetv.wqwqwq.sbs/itv/1000000006000268002.m3u8?cdn=ystenlive",
                         "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010062/1.m3u8"
                     ]
                 },
@@ -518,7 +604,13 @@
                     "name": "金牌综艺",
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8",
-                        "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010086/1.m3u8"
+                        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8",
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8",
+                        "http://lu.wqwqwq.sbs/itv/1000000004000026167.m3u8?cdn=ystenlive",
+                        "http://livetv.wqwqwq.sbs/itv/1000000004000026167.m3u8?cdn=ystenlive",
+                        "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8",
+                        "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010086/1.m3u8",
+                        "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010086/index.m3u8"
                     ]
                 }
             ]
@@ -529,20 +621,33 @@
                 {
                     "name": "哒啵电竞",
                     "urls": [
-                        "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281"
+                        "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281",
+                        "http://lu.wqwqwq.sbs/itv/1000000006000032327.m3u8?cdn=ystenlive",
+                        "http://livetv.wqwqwq.sbs/itv/1000000006000032327.m3u8?cdn=ystenlive"
                     ]
                 },
                 {
                     "name": "哒啵赛事",
                     "urls": [
-                        "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010120/1.m3u8"
+                        "http://lu.wqwqwq.sbs/itv/1000000001000003775.m3u8?cdn=ystenlive",
+                        "http://livetv.wqwqwq.sbs/itv/1000000001000003775.m3u8?cdn=ystenlive",
+                        "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010120/1.m3u8",
+                        "http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010120/1.m3u8",
+                        "http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010120/1.m3u8"
                     ]
                 },
                 {
                     "name": "游戏风云",
                     "tvg_name": "游戏风云",
                     "urls": [
-                        "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8"
+                        "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226187/index.m3u8",
+                        "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989",
+                        "http://lu.wqwqwq.sbs/itv/5000000011000031114.m3u8?cdn=bestzb",
+                        "http://livetv.wqwqwq.sbs/itv/5000000011000031114.m3u8?cdn=bestzb",
+                        "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8",
+                        "http://223.166.234.114:7777/tsfile/live/1050_1.m3u8",
+                        "http://223.166.234.215:7777/tsfile/live/1050_1.m3u8",
+                        "http://wouu.net:9977/udp/239.93.0.136:5140"
                     ]
                 }
             ]
@@ -554,6 +659,14 @@
                     "name": "五星体育",
                     "urls": [
                         "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281",
+                        "http://61.173.144.157:9901/tsfile/live/1010_1.m3u8",
+                        "http://223.166.234.215:7777/tsfile/live/1030_1.m3u8",
+                        "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007",
+                        "http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281",
+                        "http://lu.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb",
+                        "http://livetv.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb",
+                        "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989",
+                        "http://223.166.234.114:7777/tsfile/live/1030_1.m3u8",
                         "https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv"
                     ]
                 }
@@ -567,10 +680,15 @@
                     "tvg_name": "凤凰中文",
                     "urls": [
                         "http://122.224.232.218:8888/rtp/233.50.200.191:5140",
+                        "http://www.lebaobei.top:6868/rtp/239.255.30.50:8231",
+                        "http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw",
                         "http://www.erbao1981.top:8188/udp/239.76.246.135:1234",
                         "http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv",
                         "http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8",
-                        "http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0"
+                        "http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://117.27.190.42:9998/tsfile/live/23280_1.m3u8",
+                        "https://stream1.freetv.fun/feng-huang-zhong-wen-7.ctv",
+                        "https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8"
                     ]
                 },
                 {
@@ -581,14 +699,32 @@
                         "http://wouu.net:9977/udp/239.93.0.118:2191",
                         "http://wouu.net:9977/udp/239.93.1.4:2191",
                         "http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv",
-                        "http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0"
+                        "http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0",
+                        "http://117.27.190.42:9998/tsfile/live/23279_1.m3u8",
+                        "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx",
+                        "https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8",
+                        "https://stream1.freetv.fun/feng-huang-zi-xun-20.ctv",
+                        "https://stream1.freetv.fun/feng-huang-zi-xun-6.m3u8"
                     ]
                 },
                 {
                     "name": "凤凰香港",
                     "urls": [
+                        "http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5",
+                        "http://www.lebaobei.top:6868/udp/239.255.30.123:8231",
                         "http://60.164.128.167:8029/rtp/239.255.30.123:8231",
-                        "http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8"
+                        "https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8",
+                        "http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8",
+                        "https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv"
+                    ]
+                },
+                {
+                    "name": "无线新闻",
+                    "urls": [
+                        "http://cdn.iptv8k.top/dl/jspd.php?id=2",
+                        "https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40",
+                        "http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8",
+                        "http://php.jdshipin.com:8880/smt.php?id=inews_twn"
                     ]
                 }
             ]
