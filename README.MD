@@ -1,16 +1,5 @@
 ## TVBox 自用配置
 
-配置链接:
-
-```
-https://ghproxy.net/https://raw.githubusercontent.com/anaer/Meow/main/meow.json
-https://jsdelivr.b-cdn.net/gh/anaer/Meow@main/meow.json
-https://gcore.jsdelivr.net/gh/anaer/Meow@main/meow.json
-https://jsd.onmicrosoft.cn/gh/anaer/Meow@main/meow.json
-https://jsd.cdn.zzko.cn/gh/anaer/Meow@main/meow.json
-https://raw.cachefly.998111.xyz/anaer/Meow/main/meow.json
-```
-
 主要自用, 随缘更新
 
 文件说明:
