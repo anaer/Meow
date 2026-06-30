@@ -9,6 +9,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment: Sync
     steps:
       - name: 设置时区
         run: sudo timedatectl set-timezone 'Asia/Shanghai'
